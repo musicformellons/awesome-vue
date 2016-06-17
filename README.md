@@ -172,6 +172,7 @@
 - [vue-admin](https://github.com/fundon/vue-admin): Vue Admin Panel Framework, by [@fundon](https://github.com/fundon)
 - [vue-material-design](https://github.com/loujiayu/vue-material-design): A set of material components by [@loujiayu](https://github.com/loujiayu)
 - [mint-ui ★767](https://github.com/ElemeFE/mint-ui): Mobile UI elements for Vue.js, by [@ElemeFE](https://github.com/ElemeFE)
+- [vue-mui] (https://github.com/creatshare/vue-mui): MUI components for Vue.js, by [@creatshare] (https://github.com/creatshare)
 
 ### Libraries & Plugins
 
